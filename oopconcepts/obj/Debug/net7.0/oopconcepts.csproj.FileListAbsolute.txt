@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/bin/Debug/net7.0/oopconcepts
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/bin/Debug/net7.0/oopconcepts.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/bin/Debug/net7.0/oopconcepts.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/bin/Debug/net7.0/oopconcepts.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/bin/Debug/net7.0/oopconcepts.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/refint/oopconcepts.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/oopconcepts.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/oopconcepts/obj/Debug/net7.0/ref/oopconcepts.dll

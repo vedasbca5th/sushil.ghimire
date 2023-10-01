@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/bin/Debug/net7.0/objectoriented
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/bin/Debug/net7.0/objectoriented.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/bin/Debug/net7.0/objectoriented.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/bin/Debug/net7.0/objectoriented.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/bin/Debug/net7.0/objectoriented.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/refint/objectoriented.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/objectoriented.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/objectoriented/obj/Debug/net7.0/ref/objectoriented.dll
