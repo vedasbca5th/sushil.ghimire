@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/bin/Debug/net7.0/operatorExample
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/bin/Debug/net7.0/operatorExample.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/bin/Debug/net7.0/operatorExample.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/bin/Debug/net7.0/operatorExample.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/bin/Debug/net7.0/operatorExample.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/refint/operatorExample.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/operatorExample.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/operatorExample/obj/Debug/net7.0/ref/operatorExample.dll
