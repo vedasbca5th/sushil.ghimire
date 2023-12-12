@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/bin/Debug/net7.0/arrays
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/bin/Debug/net7.0/arrays.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/bin/Debug/net7.0/arrays.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/bin/Debug/net7.0/arrays.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/refint/arrays.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/arrays/obj/Debug/net7.0/ref/arrays.dll
