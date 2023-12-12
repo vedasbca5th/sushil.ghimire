@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/bin/Debug/net7.0/strings
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/bin/Debug/net7.0/strings.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/bin/Debug/net7.0/strings.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/bin/Debug/net7.0/strings.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/bin/Debug/net7.0/strings.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/refint/strings.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/strings.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/strings/obj/Debug/net7.0/ref/strings.dll
