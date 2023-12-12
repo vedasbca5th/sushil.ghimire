@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main()
+    static void Main12()
     {
         Console.Write("Enter the value of n: ");
         int n = int.Parse(Console.ReadLine());
