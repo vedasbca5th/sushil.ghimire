@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main()
+    static void Main123()
     {
         // Declaration and initialization of variables
         int numberOfStudents = 5;
