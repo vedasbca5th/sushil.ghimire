@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/bin/Debug/net7.0/control_statements
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/bin/Debug/net7.0/control_statements.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/bin/Debug/net7.0/control_statements.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/bin/Debug/net7.0/control_statements.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/bin/Debug/net7.0/control_statements.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/refint/control_statements.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/control_statements.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/control_statements/obj/Debug/net7.0/ref/control_statements.dll
