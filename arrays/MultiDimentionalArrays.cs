@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main()
+    static void Main123()
     {
         // Define two 2x2 matrices
         int[,] matrixA = { { 1, 2 }, { 3, 4 } };

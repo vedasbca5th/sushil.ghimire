@@ -2,7 +2,7 @@
 
 class SumOfNaturalNumber
 {
-    static void Main()
+    static void Main343()
     {
         // Example: Sum of Natural Numbers in an Array
 

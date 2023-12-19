@@ -1,6 +1,6 @@
 using System;
 public class SimpleArrayExample{
-    public static void Main(string[] args){
+    public static void Main123(string[] args){
         int[] numbers = {1,2,3,4,5,6,7};
         //print array elements
         Console.WriteLine("Enter the array elements");
