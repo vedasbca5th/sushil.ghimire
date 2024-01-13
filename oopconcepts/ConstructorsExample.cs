@@ -43,7 +43,7 @@ public class Student
 
 public class ConstructorsExample
 {
-    static void Main()
+    static void Mainmain()
     {
         // Using default constructor
         Student defaultStudent = new Student();

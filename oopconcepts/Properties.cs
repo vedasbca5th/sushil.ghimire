@@ -13,7 +13,7 @@ class MyClass
 }
 public class Properties
 {
-    public static void Main()
+    public static void Main123()
     {
         MyClass myClass = new MyClass();
         myClass.SetX(10);
@@ -34,7 +34,7 @@ class Chk
 }
 class Test
 {
-    static void Main()
+    static void Main5434()
     {
         Chk obj = new Chk();
         obj.a = 10;

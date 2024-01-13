@@ -4,7 +4,7 @@ namespace csharp_arrays
 
     public class Arrays
     {
-        public static void Main(String[] args){
+        public static void Main565(String[] args){
             int[] array= new int[3];
             int n, i, sum = 0;
             System.Console.WriteLine("Enter the size of the array");

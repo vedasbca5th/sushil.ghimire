@@ -17,7 +17,7 @@ class ThisKeywords
 }
 class StudentDetails
 {
-    public static void Main(string[] args)
+    public static void Main6765(string[] args)
     {
         ThisKeywords std1 = new ThisKeywords(001, "Jack", 23, "Maths");
         std1.showInfo();
