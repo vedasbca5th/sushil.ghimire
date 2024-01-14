@@ -68,7 +68,7 @@ namespace IndexerExample
     }
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main1234(string[] args)
         {
             Department department= new Department();
             Console.WriteLine(department[1].empName);
