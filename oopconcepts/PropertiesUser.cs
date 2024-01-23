@@ -41,7 +41,7 @@ namespace PropertiesExample
     }
     public class Program
     {
-        public static void Main(string[] args)
+        public static void Main654(string[] args)
         {
             try{  User user = new User();
             user.ID = 101;
