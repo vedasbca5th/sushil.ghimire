@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/bin/Debug/net7.0/inheritence_interface
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/bin/Debug/net7.0/inheritence_interface.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/bin/Debug/net7.0/inheritence_interface.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/bin/Debug/net7.0/inheritence_interface.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/bin/Debug/net7.0/inheritence_interface.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/refint/inheritence_interface.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/inheritence_interface.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/inheritence_interface/obj/Debug/net7.0/ref/inheritence_interface.dll
