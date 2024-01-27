@@ -53,7 +53,7 @@ class Eagle : Bird, IFlyable
     }
 }
 
-class Program
+class Programs
 {
     static void Main987()
     {

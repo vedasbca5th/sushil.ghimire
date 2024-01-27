@@ -39,7 +39,7 @@ class ColoredCircle : Circle
 }
 class AbstractConcepts
 {
-    static void Main()
+    static void Main9876()
     {
         Circle circle = new Circle();
         Rectangle rectangle = new Rectangle();
