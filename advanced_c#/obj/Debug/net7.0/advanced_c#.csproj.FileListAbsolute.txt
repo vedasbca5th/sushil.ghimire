@@ -1,0 +1,15 @@
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.csproj.AssemblyReference.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.AssemblyInfoInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.AssemblyInfo.cs
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.csproj.CoreCompileInputs.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/bin/Debug/net7.0/advanced_c#
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/bin/Debug/net7.0/advanced_c#.deps.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/bin/Debug/net7.0/advanced_c#.runtimeconfig.json
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/bin/Debug/net7.0/advanced_c#.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/bin/Debug/net7.0/advanced_c#.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/refint/advanced_c#.dll
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.pdb
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/advanced_c#.genruntimeconfig.cache
+/home/sushil/Documents/DOT_NET_bca_5th/PRACTICAL_DOT_NET/advanced_c#/obj/Debug/net7.0/ref/advanced_c#.dll
