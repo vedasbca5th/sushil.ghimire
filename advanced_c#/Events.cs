@@ -29,7 +29,7 @@ public class EventSubscriber
 
 public class EventExample
 {
-    public static void Main()
+    public static void Main654()
     {
         // Create instances of the publisher and subscriber
         EventPublisher publisher = new EventPublisher();
