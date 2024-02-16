@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"]= "Employee";
+  ViewData["Title"] = "Employee";
 }
 @model List<Employee>
 <a class="btn btn-success" asp-action="Add">Add</a>
@@ -10,19 +10,23 @@
       <th scope="col">Name</th>
       <th scope="col">Address</th>
       <th scope="col">Age</th>
-    <th scope="col">Salary</th>
+      <th scope="col">Salary</th>
     </tr>
   </thead>
   <tbody>
-    @foreach(var empoyee in Model){
- <tr>
-    <th scope="row">@empoyee.Id</th>
-    <td>@empoyee.Name</td>
-    <td>@empoyee.Address</td>
-    <td>@empoyee.Age</td>
-    <td>@empoyee.Salary</td>
-    <td><a class="btn btn-outline-danger" href="/Employee/Delete?id=@empoyee.Id">Delete</a></td>
-    </tr>
+    @foreach (var empoyee in Model)
+    {
+      <tr>
+        <th scope="row">@empoyee.Id</th>
+        <td>
+          <a href="/employee/details?id=@empoyee.Id">@empoyee.Name</a>
+        </td>
+        <td>@empoyee.Address</td>
+        <td>@empoyee.Age</td>
+        <td>@empoyee.Salary</td>
+        <td><a class="btn btn-outline-warning" href="/Employee/Edit?id=@empoyee.Id">Edit</a></td>
+        <td><a class="btn btn-outline-danger" href="/Employee/Delete?id=@empoyee.Id">Delete</a></td>
+      </tr>
     }
   </tbody>
 </table>

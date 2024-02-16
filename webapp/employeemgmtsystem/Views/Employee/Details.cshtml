@@ -1,0 +1,13 @@
+@model Employee
+@{
+    ViewData["Title"] = Model.Name;
+}
+<h2>@Model.Name's Detail
+    <a class="btn btn-primary" asp-controller="employee" asp-action="index">Back To HomePage</a>
+</h2>
+<ul class="list-group">
+    <li class="list-group-item">FirstName:@Model.Name</li>
+    <li class="list-group-item">Home Address:@Model.Address</li>
+    <li class="list-group-item">Age:@Model.Age</li>
+    <li class="list-group-item">Salary:@Model.Salary</li>
+</ul>

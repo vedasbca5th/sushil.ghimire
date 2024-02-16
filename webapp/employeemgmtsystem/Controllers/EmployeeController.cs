@@ -44,6 +44,28 @@ public class EmployeeController : Controller
         db.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
+    [HttpGet]
+    public ActionResult Edit(int id)
+    {
+        var db = new EmployeeDbContext();
+        var employee = db.Employees.Find(id);
+        return View(employee);
+    }
+    [HttpPost]
+    public ActionResult Edit(Employee employees)
+    {
+        var db = new EmployeeDbContext();
+        db.Employees.Attach(employees);
+        db.Employees.Update(employees);
+        db.SaveChanges();
+        return RedirectToAction(nameof(Index));
+    }
+     public ActionResult Details(int id)
+    {
+        var db = new EmployeeDbContext();
+        var details =db.Employees.Find(id);
+        return View(details);
+    }
 
 
 }
