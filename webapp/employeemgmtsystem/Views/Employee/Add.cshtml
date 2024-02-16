@@ -1,0 +1,24 @@
+@model employeemgmtsystem.Models.Employee
+<h3>Add employee</h3>
+<hr/>
+<form class="row g-3" asp-action="Add" method="post">
+  <div class="col-md-12">
+    <label class="form-label">Name</label>
+    <input class ="form-control" asp-for="Name" placeholder="Enter the Name">
+  </div>
+  <div class="col-md-12">
+    <label for="inputPassword4" class="form-label">Address</label>
+    <input class ="form-control" asp-for="Address" placeholder="Enter the Address">
+  </div>
+  <div class="col-12">
+    <label for="inputAddress" class="form-label">Salary</label>
+    <input class ="form-control" asp-for="Salary" placeholder="Enter the Salary">
+  </div>
+  <div class="col-12">
+    <label for="inputAddress2" class="form-label">Age</label>
+    <input class ="form-control" asp-for="Age" placeholder="Enter the Age">
+  </div>
+  <div class="col-12">
+    <button type="submit" class="btn btn-primary">Add Employee</button>
+  </div>
+</form>

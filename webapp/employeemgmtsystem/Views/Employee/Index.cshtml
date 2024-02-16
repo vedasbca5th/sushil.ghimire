@@ -2,7 +2,7 @@
     ViewData["Title"]= "Employee";
 }
 @model List<Employee>
-
+<a class="btn btn-success" asp-action="Add">Add</a>
 <table class="table">
   <thead>
     <tr>
@@ -16,11 +16,12 @@
   <tbody>
     @foreach(var empoyee in Model){
  <tr>
-    <th scope="row">1</th>
+    <th scope="row">@empoyee.Id</th>
     <td>@empoyee.Name</td>
     <td>@empoyee.Address</td>
     <td>@empoyee.Age</td>
     <td>@empoyee.Salary</td>
+    <td><a class="btn btn-outline-danger" href="/Employee/Delete?id=@empoyee.Id">Delete</a></td>
     </tr>
     }
   </tbody>
